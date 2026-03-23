@@ -1,8 +1,7 @@
----
-icon: puzzle-piece
----
-
 # AuraUpdater 애드온을 통한 Liquid Weakauras 설치 가이드
+
+- **Created At:** 2025-08-15
+- **Updated At:** 2025-08-15
 
 현재 방식대로라면 매 시즌마다 Liquid측에서 토큰 정보를 변경하여 구독자에게만 재공유할 것으로 보입니다. 이번 시즌에 사용 가능한 토큰 정보 포함하여 가이드 작성하였으니 참고 바랍니다.
 
