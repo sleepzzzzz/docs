@@ -4,7 +4,7 @@
 
 ![alt text](images/20260323_guide-timeline-reminders_001.png)
 
-### 2. 애드온 찾기 > `URL 주소로 설치` 버튼 클릭
+### 2. `애드온 찾기` > `URL 주소로 설치` 버튼 클릭
 
 ![alt text](images/20260323_guide-timeline-reminders_002.png)
 
