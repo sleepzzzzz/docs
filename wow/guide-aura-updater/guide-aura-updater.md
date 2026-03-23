@@ -23,18 +23,18 @@ icon: puzzle-piece
 기존 토큰 정보 삭제
 ```
 
-<figure><img src="images/guide-aura-updater/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 업데이트 체크 후 AuraUpdater 애드온 업데이트
 
-<figure><img src="images/guide-aura-updater/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 인게임에서 AuraUpdater를 통해 Liquid Weakauras 업데이트
 
 1. /au 입력
 2. 필요 Weakauras 업데이트&#x20;
 
-<figure><img src="images/guide-aura-updater/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -55,7 +55,7 @@ icon: puzzle-piece
 기존 토큰 정보 삭제
 ```
 
-<figure><img src="images/guide-aura-updater/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. WowUp을 통해 AuraUpdater 설치
 
@@ -65,21 +65,21 @@ icon: puzzle-piece
 https://github.com/bart-dev-wow/AuraUpdater
 ```
 
-<figure><img src="images/guide-aura-updater/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. 설치 클릭&#x20;
 
-<div align="center"><figure><img src="images/guide-aura-updater/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="images/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 3. 설치됨!이 뜨면 설치 완료&#x20;
 
-<figure><img src="images/guide-aura-updater/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 인게임에서 AuraUpdater를 통해 Liquid Weakauras 업데이트
 
 1. /au 입력
 2. 필요 Weakauras 업데이트&#x20;
 
-<figure><img src="images/guide-aura-updater/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/image (6).png" alt=""><figcaption></figcaption></figure>
 
 </details>
