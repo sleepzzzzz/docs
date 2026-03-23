@@ -1,6 +1,6 @@
 # WowUp을 통한 Timeline Reminders 애드온 설치
 
-### 1. WowUp에서 `실행` > `애드온` > `Personal Access Token`에 전달받은 토큰 입력
+### 1. WowUp에서 `설정` > `애드온` > `Personal Access Token`에 전달받은 토큰 입력
 
 ![alt text](images/20260323_guide-timeline-reminders_001.png)
 
